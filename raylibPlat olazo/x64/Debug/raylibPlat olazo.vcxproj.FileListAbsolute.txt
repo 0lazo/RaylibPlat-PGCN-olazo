@@ -1,0 +1,3 @@
+C:\Users\Alumno\source\repos\raylibPlat olazo\x64\Debug\raylib.dll
+C:\Users\Alumno\source\repos\raylibPlat olazo\x64\Debug\glfw3.dll
+C:\Users\Alumno\source\repos\raylibPlat olazo\raylibPlat olazo\x64\Debug\raylibPl.3AD17D3E.Up2Date
