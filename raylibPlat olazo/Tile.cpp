@@ -19,7 +19,7 @@ void Tile::Update(float DT)
 
 void Tile::Draw()
 {
-	DrawRectangle(position.x, position.y, size, size, BROWN);
+	DrawRectangle(position.x, position.y, size, size, BLUE);
 }
 
 
@@ -29,11 +29,11 @@ void Tile::SetIsActive(bool active)
 
 Vector2 Tile::GetPosition()
 {
-	return Vector2();
+	return position;
 }
 
 Rectangle Tile::getBoxCollider()
 {
-	return Rectangle();
+	return boxCollider;
 }
 

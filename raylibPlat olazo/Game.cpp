@@ -22,10 +22,7 @@ void Game::InitGame()
 
 void Game::Update()
 {
-	if (IsKeyDown(KEY_RIGHT)) ballPos.x += 2;
-	if (IsKeyDown(KEY_LEFT)) ballPos.x -= 2;
-	if (IsKeyDown(KEY_UP)) ballPos.y -= 2;
-	if (IsKeyDown(KEY_DOWN)) ballPos.y += 2;
+	player->Update();
 }
 
 
@@ -35,12 +32,12 @@ void Game::Draw()
 	{
 		for (auto i : map)
 		{
+			player->Collision(*i);
 			i->Draw();
 		}
 	}
-	ClearBackground(DARKBLUE);
-	DrawText("Ball Moving", 10, 10, 25, BLACK);
-	DrawCircleV(ballPos, 50, RED);
+	ClearBackground(PURPLE);
+	DrawText("Ball Moving", 10, 10, 25, YELLOW);
 	tile1->Draw();
 	player->Draw();
 	EndDrawing();
