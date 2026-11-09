@@ -1,1 +1,5 @@
-﻿  raylibPlat olazo.vcxproj -> C:\Users\Alumno\source\repos\raylibPlat olazo\x64\Debug\raylibPlat olazo.exe
+﻿  Game.cpp
+C:\Users\Alumnos\Desktop\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(19,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  raylibPlat olazo.vcxproj -> C:\Users\Alumnos\Desktop\RaylibPlat-PGCN-olazo\x64\Debug\raylibPlat olazo.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.

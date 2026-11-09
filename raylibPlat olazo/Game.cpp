@@ -1,4 +1,5 @@
 #include "Game.h"
+#include "Charactrer.h"
 
 Game::Game()
 {
@@ -13,7 +14,12 @@ Game::~Game()
 void Game::InitGame()
 {
     ballPos = { (float)screenWidth / 2, (float)screenHeight / 2 };
+	for (int i = 0; i < 25; i++)
+	{
+		map.push_back(new Tile(i * 25, 425, 25));
+	}
 }
+
 
 void Game::Update()
 {
@@ -26,8 +32,16 @@ void Game::Update()
 void Game::Draw()
 {
 	BeginDrawing();
+	player->Update();
+	player->Draw();
+	for (auto i : map)
+	{
+		player->Collision(*i);
+		i->Draw();
+	}
 	ClearBackground(DARKBLUE);
 	DrawText("Ball Moving", 10, 10, 25, BLACK);
-	DrawCircleV(ballPos, 50, RED);
+	player->Draw();
+	tile->Draw();
 	EndDrawing();
 }
