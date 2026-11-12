@@ -13,10 +13,60 @@ Game::~Game()
 
 void Game::InitGame()
 {
-    ballPos = { (float)screenWidth / 2, (float)screenHeight / 2 };
+	player = new Character({ 100, 100 }, 25);
+	//Bottom Wall
+	for (int i = 0; i < 35; i++)
+	{
+		map.push_back(new Wall(i * 25, 575, 25));
+	}
+	//Left Wall
 	for (int i = 0; i < 25; i++)
 	{
-		map.push_back(new Tile(i * 25, 425, 25));
+		map.push_back(new Wall(0, i * 25, 25));
+	}
+	//Right Wall
+	for (int i = 0; i < 25; i++)
+	{
+		map.push_back(new Wall(775, i * 25, 25));
+	}
+	//Top Wall
+	for (int i = 0; i < 35; i++)
+	{
+		map.push_back(new Wall(i * 25, 0, 25));
+	}
+	//Bricks
+	for (int i = 1; i < 17; i++)
+	{
+		map.push_back(new Brick(i * 25, 450, 25));
+	}
+	for (int i = 18; i < 27; i++)
+	{
+		map.push_back(new Brick(i * 25, 450, 25));
+	}
+	for (int i = 15; i < 31; i++)
+	{
+		map.push_back(new Brick(i * 25, 350, 25));
+	}
+	for (int i = 1; i < 6; i++)
+	{
+		map.push_back(new Brick(i * 25, 250, 25));
+	}
+	for (int i = 7; i < 19; i++)
+	{
+		map.push_back(new Brick(i * 25, 250, 25));
+	}
+	for (int i = 1; i < 14; i++)
+	{
+		map.push_back(new Brick(i * 25, 150, 25));
+	}
+	for (int i = 15; i < 31; i++)
+	{
+		map.push_back(new Brick(i * 25, 150, 25));
+	}
+	//Stairs
+	for (int i = 0; i < 8; i++)
+	{
+		map.push_back(new Stairs(425,(i*25)+450, 25));
 	}
 }
 
@@ -42,6 +92,5 @@ void Game::Draw()
 	ClearBackground(DARKBLUE);
 	DrawText("Ball Moving", 10, 10, 25, BLACK);
 	player->Draw();
-	tile->Draw();
 	EndDrawing();
 }

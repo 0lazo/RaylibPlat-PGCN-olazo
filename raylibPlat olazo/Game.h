@@ -1,9 +1,11 @@
 #pragma once
 #include <iostream>
 #include <raylib.h>
-#include "Tile.h"
+#include "Brick.h"
 #include "Charactrer.h"
 #include <vector>
+#include "Wall.h"
+#include "Stairs.h"
 class Game
 {
 private:
@@ -11,10 +13,8 @@ private:
 	const int screenWidth = 800;
 	const int screenHeight = 600;
 	Vector2 ballPos;
-	Tile* tile = new Tile(10, 10, 25);
-	Character* player = new Character({ 50,50 }, 25);
-
 	std::vector<Tile*> map;
+	Character* player;
 
 public:
 	Game();

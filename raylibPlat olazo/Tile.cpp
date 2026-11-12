@@ -13,18 +13,3 @@ Tile::~Tile()
 void Tile::Update(float DT)
 {
 }
-void Tile::Draw()
-{
-	DrawRectangle(position.x, position.y, size, size, BROWN);
-}
-void Tile::SetIsActive(bool active)
-{
-}
-Vector2 Tile::GetPosition()
-{
-	return position;
-}
-Rectangle Tile::getBoxCollider()
-{
-	return boxCollider;
-}

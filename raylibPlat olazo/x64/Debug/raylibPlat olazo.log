@@ -1,5 +1,14 @@
 ﻿  Game.cpp
-C:\Users\Alumnos\Desktop\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(19,28): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-  raylibPlat olazo.vcxproj -> C:\Users\Alumnos\Desktop\RaylibPlat-PGCN-olazo\x64\Debug\raylibPlat olazo.exe
-  "pwsh.exe" no se reconoce como un comando interno o externo,
-  programa o archivo por lotes ejecutable.
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(20,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(25,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(30,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(35,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(40,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(44,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(48,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(52,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(56,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(60,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(64,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\raylibPlat olazo\Game.cpp(69,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  raylibPlat olazo.vcxproj -> C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\x64\Debug\raylibPlat olazo.exe

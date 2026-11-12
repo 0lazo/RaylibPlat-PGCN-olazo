@@ -1,33 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Charactrer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Charactrer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Charactrer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\raylibPlat olazo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\raylibPlat olazo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\raylibPlat olazo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Brick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Brick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Stairs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Stairs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Brick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Brick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{931B6DC6-A1D9-469A-BB03-FB412B87E843}|raylibPlat olazo\\raylibPlat olazo.vcxproj|solutionrelative:raylibPlat olazo\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,17 +62,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "Brick.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Brick.cpp",
+              "RelativeDocumentMoniker": "raylibPlat olazo\\Brick.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Brick.cpp",
+              "RelativeToolTip": "raylibPlat olazo\\Brick.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T15:16:42.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Charactrer.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.cpp",
               "RelativeDocumentMoniker": "raylibPlat olazo\\Charactrer.cpp",
-              "ToolTip": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.cpp",
               "RelativeToolTip": "raylibPlat olazo\\Charactrer.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T16:14:30.32Z",
               "EditorCaption": ""
@@ -57,11 +94,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.cpp",
               "RelativeDocumentMoniker": "raylibPlat olazo\\Game.cpp",
-              "ToolTip": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.cpp",
-              "RelativeToolTip": "raylibPlat olazo\\Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.cpp*",
+              "RelativeToolTip": "raylibPlat olazo\\Game.cpp*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwEQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T15:23:29.2Z",
               "EditorCaption": ""
@@ -70,71 +107,136 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Tile.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.cpp",
               "RelativeDocumentMoniker": "raylibPlat olazo\\Tile.cpp",
-              "ToolTip": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.cpp",
               "RelativeToolTip": "raylibPlat olazo\\Tile.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T15:44:43.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "raylibPlat olazo.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\raylibPlat olazo.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\raylibPlat olazo.cpp",
               "RelativeDocumentMoniker": "raylibPlat olazo\\raylibPlat olazo.cpp",
-              "ToolTip": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\raylibPlat olazo.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\raylibPlat olazo.cpp",
               "RelativeToolTip": "raylibPlat olazo\\raylibPlat olazo.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T15:23:32.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stairs.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Stairs.cpp",
+              "RelativeDocumentMoniker": "raylibPlat olazo\\Stairs.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Stairs.cpp",
+              "RelativeToolTip": "raylibPlat olazo\\Stairs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T16:01:11.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Wall.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Wall.cpp",
+              "RelativeDocumentMoniker": "raylibPlat olazo\\Wall.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Wall.cpp",
+              "RelativeToolTip": "raylibPlat olazo\\Wall.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T15:43:17.087Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
+              "Title": "Stairs.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Stairs.h",
+              "RelativeDocumentMoniker": "raylibPlat olazo\\Stairs.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Stairs.h",
+              "RelativeToolTip": "raylibPlat olazo\\Stairs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T16:01:10.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.h",
               "RelativeDocumentMoniker": "raylibPlat olazo\\Game.h",
-              "ToolTip": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Game.h",
               "RelativeToolTip": "raylibPlat olazo\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-09T15:59:58.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Tile.h",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.h",
               "RelativeDocumentMoniker": "raylibPlat olazo\\Tile.h",
-              "ToolTip": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Tile.h",
               "RelativeToolTip": "raylibPlat olazo\\Tile.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-09T15:36:21.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Charactrer.h",
-              "DocumentMoniker": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.h",
               "RelativeDocumentMoniker": "raylibPlat olazo\\Charactrer.h",
-              "ToolTip": "C:\\Users\\Alumnos\\Desktop\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Charactrer.h",
               "RelativeToolTip": "raylibPlat olazo\\Charactrer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAArwBMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-09T16:11:42.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Brick.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Brick.h",
+              "RelativeDocumentMoniker": "raylibPlat olazo\\Brick.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Brick.h",
+              "RelativeToolTip": "raylibPlat olazo\\Brick.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T15:15:47.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wall.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Wall.h",
+              "RelativeDocumentMoniker": "raylibPlat olazo\\Wall.h",
+              "ToolTip": "C:\\Users\\Alumno\\Documents\\Github\\RaylibPlat-PGCN-olazo\\raylibPlat olazo\\Wall.h",
+              "RelativeToolTip": "raylibPlat olazo\\Wall.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T15:43:14.998Z",
               "EditorCaption": ""
             }
           ]

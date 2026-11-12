@@ -14,6 +14,10 @@ void Character::Update()
 	if (IsKeyDown(KEY_A))
 	{
 		velocity.x = -moveSpeed;
+		if (position.x < 30)
+		{
+			position.x = 30;
+		}
 	}
 	else if (IsKeyReleased(KEY_A))
 	{
@@ -22,6 +26,10 @@ void Character::Update()
 	if (IsKeyDown(KEY_D))
 	{
 		velocity.x = moveSpeed;
+		if (position.x > 745)
+		{
+			position.x = 745;
+		}
 	}
 	else if (IsKeyReleased(KEY_D))
 	{
@@ -38,8 +46,8 @@ void Character::Draw()
 
 void Character::Collision(Tile& t)
 {
-	Rectangle collider = { position.x, position.y,size,size };
-	if (CheckCollisionRecs(collider, t.getBoxCollider()))
+	Rectangle player = { position.x, position.y,size,size };
+	if (CheckCollisionRecs(player, t.GetBoxCollider()))
 	{
 		position.y = t.GetPosition().y - 25;
 		velocity.y = 0;
