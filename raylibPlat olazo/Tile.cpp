@@ -16,6 +16,7 @@ Tile::~Tile()
 void Tile::Update(float DT)
 {
 }
+<<<<<<< Updated upstream
 
 void Tile::Draw()
 {
@@ -27,6 +28,8 @@ void Tile::SetIsActive(bool active)
 {
 }
 
+=======
+>>>>>>> Stashed changes
 Vector2 Tile::GetPosition()
 {
 	return position;

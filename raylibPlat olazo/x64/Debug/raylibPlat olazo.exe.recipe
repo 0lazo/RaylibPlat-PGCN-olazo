@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< Updated upstream
       <FullPath>C:\Users\Alumno\Desktop\RaylibPlat-PGCN-olazo\x64\Debug\raylibPlat olazo.exe</FullPath>
+=======
+      <FullPath>C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\x64\Debug\raylibPlat olazo.exe</FullPath>
+>>>>>>> Stashed changes
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

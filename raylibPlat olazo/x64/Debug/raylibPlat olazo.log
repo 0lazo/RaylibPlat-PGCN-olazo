@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿  Character.cpp
 C:\Users\Alumno\Desktop\RaylibPlat-PGCN-olazo\raylibPlat olazo\Character.cpp(13,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
 C:\Users\Alumno\Desktop\RaylibPlat-PGCN-olazo\raylibPlat olazo\Character.cpp(13,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
@@ -13,3 +14,6 @@ C:\Users\Alumno\Desktop\RaylibPlat-PGCN-olazo\raylibPlat olazo\Tile.cpp(22,36): 
 C:\Users\Alumno\Desktop\RaylibPlat-PGCN-olazo\raylibPlat olazo\Tile.cpp(22,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
   Generando código...
   raylibPlat olazo.vcxproj -> C:\Users\Alumno\Desktop\RaylibPlat-PGCN-olazo\x64\Debug\raylibPlat olazo.exe
+=======
+﻿  raylibPlat olazo.vcxproj -> C:\Users\Alumno\Documents\Github\RaylibPlat-PGCN-olazo\x64\Debug\raylibPlat olazo.exe
+>>>>>>> Stashed changes
